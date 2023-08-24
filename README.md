@@ -1,16 +1,18 @@
-### Hi there 👋
+## 👋 I'm Princess Ganobi.
 
-<!--
-**Gadera/Gadera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🎨 Expertise: Frontend Development
+#### 🌐 Exploring: Backend Development
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌟 What I Do:
+My focus is on frontend development, where I excel at turning design concepts into engaging web experiences. As I refine my frontend skills, I'm also delving into backend technologies to broaden my expertise.
+
+#### 🌈 Beyond Coding:
+Beyond the realm of code, I'm an explorer of no-code platforms. I'm also a technical writer and a budding designer.
+
+#### 🌱 Motivation:
+What truly drives me is the ability to shape digital spaces that brings value to users. And fun fact – I'm a dedicated snacker!
+
+### 🔗 Let's Connect:
+Connect with me on [LinkedIn](https://www.linkedin.com/in/princess-ganobi/) or follow me on [Twitter](https://twitter.com/_princessganobi). Be it coding discussions, knowledge sharing, or simply diving into intriguing topics, I'm always here for a meaningful conversation.
+
