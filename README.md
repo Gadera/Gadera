@@ -1,4 +1,4 @@
-## 👋 I'm Princess Ganobi.
+## 👋 I'm Chidera Ganobi.
 
 #### 🎨 Expertise: Frontend Development
 #### 🌐 Exploring: Backend Development
